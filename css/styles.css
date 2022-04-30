@@ -1,0 +1,35 @@
+body {
+    background-color: #EFEFEF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.add-btn {
+    color: black;
+}
+
+.card {
+    display: flex;
+    border: none;
+    border-radius: 10px;
+}
+
+.table-personas p {
+    font-size: 13px;
+}
+
+.table-personas td {
+    font-size: 13px;
+}
+
+.bi-pencil-fill {
+    font-size: 14px;
+    color: grey;
+}
+
+.bi-trash2-fill {
+    font-size: 14px;
+    color: red;
+}
